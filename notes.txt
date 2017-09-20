@@ -1,0 +1,4 @@
+- An if/else if statement can(sometimes) be replaced by a **switch** statement.
+  Requirements:
+    1. Must be camparing the value of a char/byte/short/int.
+    2. cannot be a long/float/double/String, or anything else!
